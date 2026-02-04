@@ -1,4 +1,3 @@
-@import "tailwindcss";
 @import "fumadocs-ui/css/shadcn.css";
 @import "fumadocs-ui/css/preset.css";
 @import "tw-animate-css";
@@ -344,17 +343,17 @@
   --kendo-color-base-on-surface: #1a1a1a;
   --kendo-color-on-base: #1a1a1a;
 
-  /* Primary Colors */
-  --kendo-color-primary: #ff6358;
-  --kendo-color-primary-hover: #ea5a51;
-  --kendo-color-primary-active: #d45349;
-  --kendo-color-primary-emphasis: #ff8a82;
-  --kendo-color-primary-subtle: #ffeceb;
-  --kendo-color-primary-subtle-hover: #ffd9d6;
-  --kendo-color-primary-subtle-active: #ffc5c1;
-  --kendo-color-primary-on-subtle: #c24a43;
-  --kendo-color-primary-on-surface: #ff6358;
-  --kendo-color-on-primary: #ffffff;
+  /* Primary Colors - Anaconda Green */
+  --kendo-color-primary: #08ca4a;
+  --kendo-color-primary-hover: #07b843;
+  --kendo-color-primary-active: #069a3b;
+  --kendo-color-primary-emphasis: #8de7ac;
+  --kendo-color-primary-subtle: #d6f5e3;
+  --kendo-color-primary-subtle-hover: #c4f0d6;
+  --kendo-color-primary-subtle-active: #b2efc7;
+  --kendo-color-primary-on-subtle: #023e18;
+  --kendo-color-primary-on-surface: #08ca4a;
+  --kendo-color-on-primary: #0c0c0c;
 
   /* Secondary Colors */
   --kendo-color-secondary: #666666;

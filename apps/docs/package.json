@@ -9,6 +9,7 @@
     "postinstall": "fumadocs-mdx"
   },
   "dependencies": {
+    "@anaconda/theme": "*",
     "@ai-sdk/react": "^2.0.115",
     "@icons-pack/react-simple-icons": "^13.8.0",
     "@orama/tokenizers": "^3.1.16",
@@ -53,6 +54,7 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
+    "sass": "^1.89.1",
     "@tailwindcss/postcss": "^4.1.17",
     "@types/mdx": "^2.0.13",
     "@types/node": "^24.10.1",

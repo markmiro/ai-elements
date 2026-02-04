@@ -1,5 +1,6 @@
 @import "tailwindcss";
 @import "./styles/geistdocs.css";
+@import "./styles/anaconda-theme.scss";
 
 @source "../**/*.{ts,tsx,mdx}";
 @source "../node_modules/@repo/*/**/*.{ts,tsx}";
